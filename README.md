@@ -6,9 +6,9 @@
 - I am exploring various fields within computer science and information technology.<br>
 - I am seeking collaborations to help complete my unfinished projects.
 
-Languages: PYTHON / JAVASCRIPT / C
-Frameworks:
-  Python: KIVYMD / NUMPY
+Languages: PYTHON / JAVASCRIPT / C<br>
+Frameworks:<br>
+  Python: KIVYMD / NUMPY<br>
   Javascript: REACT / NODE.JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KyleDarren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100073194800153)  
