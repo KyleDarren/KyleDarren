@@ -1,4 +1,4 @@
-### I'am Kyle Darren Laguerta
+### I am Kyle Darren Laguerta
 #### Student From Bicol University
 
 - I build apps in Python using the KivyMD framework.<br>
@@ -8,8 +8,10 @@
 
 Languages: PYTHON / JAVASCRIPT / C<br>
 Frameworks:<br>
-  Python: KIVYMD / NUMPY<br>
-  Javascript: REACT / NODE.JS
+<pre>
+Python: KIVYMD / NUMPY<br>
+Javascript: REACT / NODE.JS
+</pre>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KyleDarren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100073194800153)  
 
