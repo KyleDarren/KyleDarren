@@ -1,15 +1,12 @@
-### Hi there 👋, I'am Kyle Darren Laguerta
+### I'am Kyle Darren Laguerta
 #### Student From Bicol University
 
-I build apps in Python using the KivyMD framework.
-I design algorithms specifically in the field of computer vision.
-I am exploring various fields within computer science and information technology. 
+I build apps in Python using the KivyMD framework.\n
+I design algorithms specifically in the field of computer vision.\n
+I am exploring various fields within computer science and information technology. \n
 I am seeking collaborations to help complete my unfinished projects.
 
 Skills: PYTHON / KIVYMD / REACT
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KyleDarren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100073194800153)  
 
