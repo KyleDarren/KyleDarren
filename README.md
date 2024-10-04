@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KyleDarren.KyleDarren" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kyle+Darren+Laguerta;Student+From+Bicol+University" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Kyle+Darren+Laguerta;Student+From+Bicol+University" />
 </h1>
 
 - I build apps in Python using the KivyMD framework.<br>
@@ -14,6 +14,9 @@ Frameworks:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python: KIVYMD / NUMPY<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript: REACT / NODE.JS
 
+<a href="https://github.com/KyleDarren">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KyleDarren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100073194800153)  
  
