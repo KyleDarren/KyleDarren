@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/KyleDarren/visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KyleDarren.visitor-badge" />
 
 ### I am Kyle Darren Laguerta
 #### Student From Bicol University
