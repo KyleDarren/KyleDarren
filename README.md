@@ -1,7 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KyleDarren.KyleDarren" />
 
-### I am Kyle Darren Laguerta
-#### Student From Bicol University
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kyle+Darren+Laguerta;Student+From+Bicol+University" />
+</h1>
 
 - I build apps in Python using the KivyMD framework.<br>
 - I design algorithms specifically in the field of computer vision.<br>
