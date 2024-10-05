@@ -5,16 +5,22 @@
 </h1>
 
 <div align="center">
+    
 💬  I build apps in Python using the KivyMD framework.<br>
+    
 ⚡  I design algorithms specifically in the field of computer vision.<br>
+
 🔭  I am exploring various fields within computer science and information technology.<br>
+
 🌱  I am seeking collaborations to help complete my unfinished projects.
  </div>
 
-Languages: PYTHON / JAVASCRIPT / C<br>
-Frameworks:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python: KIVYMD / NUMPY<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript: REACT / NODE.JS
+<h2>Languages | Frameworks | Software Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,python,tensorflow,javascript,vscode,html,css,react,nodejs" />
+</div>
+<button class="button" type="submit">Post comment (button)</button>
 
 <h2>Connect with me:</h2>
 <div align="center"> 
