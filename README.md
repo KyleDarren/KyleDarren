@@ -14,11 +14,19 @@ Frameworks:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python: KIVYMD / NUMPY<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Javascript: REACT / NODE.JS
 
-<a href="https://github.com/KyleDarren">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-</a>
+<h2>Connect with me:</h2>
+<div align="center"> 
+  <a href="mailto:laguertakyledarren@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100073194800153" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KyleDarren)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyle-darren-laguerta-b6a639312/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100073194800153)  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleDarren)](https://github.com/anuraghazra/github-readme-stats)
 
