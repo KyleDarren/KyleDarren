@@ -4,10 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Kyle+Darren+Laguerta;Student+From+Bicol+University" />
 </h1>
 
-- I build apps in Python using the KivyMD framework.<br>
-- I design algorithms specifically in the field of computer vision.<br>
-- I am exploring various fields within computer science and information technology.<br>
-- I am seeking collaborations to help complete my unfinished projects.
+<div align="center">
+💬  I build apps in Python using the KivyMD framework.<br>
+⚡  I design algorithms specifically in the field of computer vision.<br>
+🔭  I am exploring various fields within computer science and information technology.<br>
+🌱  I am seeking collaborations to help complete my unfinished projects.
+ </div>
 
 Languages: PYTHON / JAVASCRIPT / C<br>
 Frameworks:<br>
