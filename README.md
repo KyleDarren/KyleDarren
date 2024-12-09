@@ -6,13 +6,7 @@
 
 <div align="center">
     
-💬  I build apps in Python using the KivyMD framework.<br>
-    
-⚡  I design algorithms specifically in the field of computer vision.<br>
-
-🔭  I am exploring various fields within computer science and information technology.<br>
-
-🌱  I am seeking collaborations to help complete my unfinished projects.
+💬  Yeah<br>
  </div>
 <br>
 <h2>Languages | Frameworks | Software Tools</h2>
