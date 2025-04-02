@@ -12,7 +12,7 @@
 <h2>Languages | Frameworks | Software Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,tensorflow,javascript,vscode,html,css,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=c" />
 </div>
 <br>
 <h2>Connect with me</h2>
